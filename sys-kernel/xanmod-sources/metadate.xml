@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>ruixirebirth@gmail.com</email>
+		<name>Ruixi-rebirth</name>
+	</maintainer>
+	<longdescription>
+		XanMod kernel sources, with the Gentoo base patchset and an option to use alternative CPU schedulers.
+	</longdescription>
+	<use>
+		<flag name="experimental">Include "experimental" genpatches</flag>
+		<flag name="tasktype">Enable the Task Type CPU scheduler, successor to CacULE, as a config option - EXPERIMENTAL!</flag>
+	</use>
+</pkgmetadata>
