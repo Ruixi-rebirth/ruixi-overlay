@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Catppuccin-Gtk Theme
+EAPI=8
+HOMEPAGE=https://github.com/Ruixi-rebirth/Catppuccin-gtk
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+SLOT=0
+SRC_URI=https://github.com/Ruixi-rebirth/Catppuccin-gtk/releases/download/1.0/Catppuccin.tar.bz2
+_md5_=df6baaf0eb4ffd09b52d5bab36e889be

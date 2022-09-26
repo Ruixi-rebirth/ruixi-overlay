@@ -1,0 +1,7 @@
+app-dicts/fcitx5-pinyin-moegirl 20220714: Fcitx 5 Pinyin Dictionary from zh.moegirl.org.cn
+net-wireless/linux-wifi-hotspot 9999: Linux Wifi Hotspot
+sys-kernel/xanmod-sources 5.18.14: XanMod kernel sources, including the Gentoo patchset
+x11-themes/Catppuccin-cursor 1.0: Catppuccin-Cursor Theme
+x11-themes/Catppuccin-gtk 1.0: Catppuccin-Gtk Theme
+x11-themes/fcitx5-catppuccin 1.0: Fcitx5 Catppuccin Theme
+x11-themes/fcitx5-nord 1.0: Fcitx5 Nord Theme

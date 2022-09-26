@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Catppuccin-Cursor Theme
+EAPI=8
+HOMEPAGE=https://github.com/Ruixi-rebirth/Catppuccin-cursor
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+SLOT=0
+SRC_URI=https://github.com/Ruixi-rebirth/Catppuccin-cursor/releases/download/1.0/Catppuccin-cursor.tar.bz2
+_md5_=5e8641cdee1a21db4900404022b576c2

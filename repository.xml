@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>ruixi-overlay</name>
+    <description lang="en">Ruixi-rebirth's personal Gentoo overlay</description>
+    <homepage>https://github.com/Ruixi-rebirth/ruixi-overlay</homepage>
+    <owner type="person">
+      <email>ruixirebirth@gmail.com</email>
+      <name>Ruixi-rebirth</name>
+    </owner>
+    <source type="git">https://github.com/Ruixi-rebirth/ruixi-overlay.git</source>
+    <source type="git">git@github.com:Ruixi-rebirth/ruixi-overlay.git</source>
+  </repo>
+</repositories>
