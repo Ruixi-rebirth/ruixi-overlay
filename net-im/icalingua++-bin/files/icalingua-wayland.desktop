@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Icalingua++ wayland
+Exec="/opt/Icalingua++/icalingua icalingua --enable-features=UseOzonePlatform --ozone-platform=wayland" %U
+Terminal=false
+Type=Application
+Icon=icalingua
+StartupWMClass=Icalingua++
+Comment=A client for (maybe) any IM made with Electron
+Categories=Network;

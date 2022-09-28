@@ -45,7 +45,8 @@ src_install() {
 	dodoc usr/share/doc/${MY_PN}/*
 
 	doicon -s 512 usr/share/icons/hicolor/512x512/apps/${MY_PN}.png
-	domenu usr/share/applications/${MY_PN}.desktop
+	domenu "${FILESDIR}/icalingua.desktop"
+	domenu "${FILESDIR}/icalingua-wayland.desktop"
 }
 
 pkg_postinst() {
